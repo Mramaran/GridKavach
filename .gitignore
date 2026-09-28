@@ -1,0 +1,21 @@
+# dependencies / build output
+node_modules/
+__pycache__/
+*.pyc
+dist/
+
+# local tooling
+.claude/
+
+# office lock files
+~$*
+
+# not part of this repository
+deck/
+video/
+scadaheck/
+*.pptx
+*.pdf
+*.mp4
+canva_prompt.md
+claude_design_prompt.md
