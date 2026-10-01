@@ -4,7 +4,7 @@ Dependable, safe power for India's solar-era neighbourhoods.
 
 GridKavach is our entry for the **Schneider Electric Yuva Yodha Energy Tech Hackathon 2026, Challenge 03: Grid Reliability (Renewable Intermittency)**. It extends a working microgrid SCADA/EMS into a feeder-level system that keeps homes on essential power when solar falls short, and keeps line crews safe on a grid full of rooftop solar, batteries and inverters.
 
-Demo video: [VIDEO LINK]
+Demo video: https://youtu.be/YyvTkKn289w
 
 ## The idea
 
